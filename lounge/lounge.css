@@ -71,14 +71,23 @@ h2{
     font-weight: bold;
 }
 
+#elixers a:link{
+    color: #007e7e;
+}
+
+#elixers a:visited{
+    color: #333;
+}
+
+#elixers a:hover{
+    background: #f88396;
+    color: #0d5353;
+}
+
 a:link{
-    color:green;
+    color: #007e7e;
 }
 
 a:visited{
-    color:red;
-}
-
-a:hover{
-    color:yellow;
+    color: #333333;
 }
